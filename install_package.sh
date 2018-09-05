@@ -1,3 +1,5 @@
+# wget https://github.com/min-ye/command/blob/master/install_package.sh
+
 yum update -y
 yum install vim -y
 yum install httpd -y
